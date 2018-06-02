@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>126.jpg</filename>
+	<path>C:\Users\Acer\Documents\Project\images\126.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>361</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Gun</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>372</xmin>
+			<ymin>104</ymin>
+			<xmax>541</xmax>
+			<ymax>192</ymax>
+		</bndbox>
+	</object>
+</annotation>
